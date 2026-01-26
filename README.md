@@ -115,11 +115,11 @@ Real-time voice waveform analysis
 ### Validation Working Model :
 ### Home page
 <img width="1895" height="879" alt="image" src="https://github.com/user-attachments/assets/bedffa6c-a44f-49b7-8bff-305b7d3a1fd0" />
-### upload the audio to check 
+###  upload the audio to check 
 <img width="1859" height="874" alt="image" src="https://github.com/user-attachments/assets/9d609f97-294d-4caf-a004-e00ff842725b" />
-### Analysis the audio
+###  Analysis the audio
 <img width="1838" height="856" alt="image" src="https://github.com/user-attachments/assets/dfd633b3-03cd-400a-be3c-1f93ae191549" />
-### Demo analysis
+###  Demo analysis
 <img width="1827" height="870" alt="image" src="https://github.com/user-attachments/assets/3abcdc01-2b17-432b-9fea-0d85d3940c79" />
 
 ### CONCLUSION
